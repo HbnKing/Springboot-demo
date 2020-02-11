@@ -83,6 +83,7 @@
 				<artifactId>jetty-maven-plugin</artifactId>
 				<version>9.2.2.v20140723</version>
 			</plugin>
+
 		</plugins>
 	</build>
 
